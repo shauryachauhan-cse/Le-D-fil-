@@ -1,0 +1,1 @@
+{"name":"le-defile","version":"1.0.0","private":true,"scripts":{"build":"node build.mjs"},"dependencies":{"qrcode-generator":"1.4.4"}}
